@@ -1,6 +1,12 @@
 h1,h2,p {
     text-align: center;}
 
+hr {
+        height: 3px;
+        background-color:brown;
+        border-color : brown;
+      }
+
 body{
     background-image: url(./lazarescu-alexandra-AZJrf0D6Vvo-unsplash.jpg);
     font-family:sans-serif;
